@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-6427-4161"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Can-Kultur-2"
   scopus           : # URL
   zotero           : # URL
